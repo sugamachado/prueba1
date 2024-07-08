@@ -27,3 +27,26 @@ Esta aplicación web permite a los usuarios ingresar datos como DIN, nombre, pri
 ```bash
 git clone https://github.com/sugamachado/prueba1.git
 cd prueba1
+
+
+prueba1/
+│
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── app.js
+│   └── package.json
+│
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── Form.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── index.css
+│   ├── package.json
+│   └── README.md
+│
+└── README.md 
